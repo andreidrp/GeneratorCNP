@@ -1,7 +1,7 @@
 # Generator CNP v.1.0
 Această unealtă 🔨 a fost dezvoltată pentru a-ți oferi posibilitatea de a genera un cod numeric personal în doar câteva secunde.
 
-## **Poți accesa generatorul apăsând click [aici](https://generatorcnp.github.io/).**
+**Poți accesa generatorul apăsând click [aici](https://generatorcnp.github.io/).**
 
 ## Pentru ce să folosești generatorul?
 ⚠️ **Nu se recomandă folosirea CNP-urilor false**, și mai ales în situații în care se pot verifica. Toate CNP-urile generate sunt complet aleatoare, inexistente și, dacă sunt verificate de autorități, va fi evident că sunt false. Totuși, uneltele de verificare online, care presupun verificarea „existenței” unui cod numeric personal, le vor detecta ca fiind reale, cnp-urile generate având o structură identică cu cea a celor reale. Așadar, poți folosi cnp-urile false în situații în care consideri necesar acest lucru, dar reține că este ilegal. De aceea, evită să le folosești în situații oficiale, cum ar fi contracte sau documente, iar orice CNP generat poate fi deja existent într-un anumit loc, pentru că este posibil ca altcineva să-l fi folosit deja într-un anumit loc, deci poate exista de mai multe ori.
